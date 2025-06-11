@@ -1,0 +1,26 @@
+.friendList_div {
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+}
+.friendList_ul {
+  list-style-type: none;
+  padding-right: 40px;
+  margin-top: 10px;
+  padding-top: 15px;
+  border: 1px solid black;
+
+  border-radius: 5px;
+}
+.friendList_li {
+  font-size: 16px;
+}
+.name {
+  font-size: 20px;
+  text-align: center;
+}
+.status {
+  font-size: 14px;
+
+  text-align: center;
+}
